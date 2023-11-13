@@ -1,5 +1,3 @@
-
-
 /** Category Item sold**/
 
 SELECT 
